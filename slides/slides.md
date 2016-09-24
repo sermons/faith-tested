@@ -1,5 +1,10 @@
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 # Faith that Stands the Test
 ## James 1:2-12
+
+---
+<!-- .slide: class="Q" data-background="white" -->
+# Will my **faith** stand the **test**?
 
 ---
 
@@ -57,3 +62,10 @@ because, having stood the test,
 that person will receive the **crown of life** <br/>
 that the Lord has **promised** <br/>
 to those who **love him**.
+
+---
+<!-- .slide: background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+
+---
+<!-- .slide: class="Q" data-background="white" -->
+# Will my **faith** stand the **test**?
