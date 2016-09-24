@@ -1,9 +1,8 @@
-# reveal-skel
-## A Template for Presentations in Reveal.js
+# James 1:2-12 Faith that Stands the Test
 
-[![Travis-CI build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node dependencies](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node dev status](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel#info=devDependencies)
+[![Travis-CI build status](https://travis-ci.org/sermons/faith-tested.svg)](https://travis-ci.org/sermons/faith-tested)
+[![Node dependencies](https://david-dm.org/sermons/faith-tested.svg)](https://david-dm.org/sermons/faith-tested)
+[![Node dev status](https://david-dm.org/sermons/faith-tested/dev-status.svg)](https://david-dm.org/sermons/faith-tested#info=devDependencies)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
