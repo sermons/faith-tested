@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# What does it mean to have **faith** in Jesus?
+# What does it mean <br/> to have **faith** <br/> in Jesus?
 
 ---
 ## James 1:2-4 <small>(NIV) (p.1/6)</small>
@@ -116,7 +116,7 @@ Those who had been scattered <br/>
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg" -->
-<span class="hl2">1:2</span>
+<span class="hl2">2</span>
 whenever you *face* **trials** of **many kinds**
 
 >>>
@@ -130,7 +130,7 @@ whenever you *face* **trials** of **many kinds**
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8GVGrjx82oo-smiling_child_chile.jpg" -->
-<span class="hl2">1:2</span>
+<span class="hl2">2</span>
 **Consider** it pure **joy**
 
 >>>
@@ -142,8 +142,8 @@ whenever you *face* **trials** of **many kinds**
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
-<span class="hl2">1:3</span>
-the **testing** of your faith produces **perseverance**.
+<span class="hl2">3</span>
+**testing** of your faith produces **perseverance**
 
 >>>
 + *testing* (δοκίμιον): not same as trial/tempt
@@ -187,7 +187,7 @@ at the **revelation** of Jesus Christ.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
-<span class="hl2">1:5</span>
+<span class="hl2">5</span>
 If any of you lacks **wisdom**, <br/>
 you should **ask God**, who gives **generously** <br/>
 to all without **finding fault**
@@ -209,7 +209,7 @@ to all without **finding fault**
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
-<span class="hl2">1:6</span>
+<span class="hl2">6</span>
 the one who **doubts** <br/>
 is like a **wave** of the sea, <br/>
 **blown** and **tossed** by the wind.
@@ -262,7 +262,7 @@ Immediately the boy’s father exclaimed, <br/>
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
-<span class="hl2">1:9</span>
+<span class="hl2">9</span>
 Believers in **humble** circumstances <br/>
 ought to take **pride** in their **high** position.
 
@@ -302,7 +302,7 @@ For when I am **weak**, then I am **strong**.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-urfVdTSFKfo-girl_hair_flowers.jpg" -->
-<span class="hl2">1:12</span>
+<span class="hl2">12</span>
 Blessed is the one who <br/>
 **perseveres** under **trial** <br/>
 because, having stood the test, <br/>
@@ -352,8 +352,8 @@ who has been given to us.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
-## Book of James: <br/> Keep The Faith
-Next time: <br/> **Faith that Demands a Change of Heart**
+## Book of James: <br/> **Keep The Faith**
+Next time: <br/> **Faith that Demands a Change of Heart** <br/>
 <span class="hl2">(1:19-25)</span>
 
 ---
