@@ -260,6 +260,10 @@ ought to take **pride** in their **high** position.
 But the **rich** should take pride <br/>
 in their **humiliation**
 
+>>>
++ *pride*: boast
++ *humiliation*: lowness
+
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 ## 2 Corinthians 12:9-10 (NIV) (p.1/2)
@@ -322,7 +326,7 @@ who has been given to us.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q3
+# Do I **boast** in my own **weaknesses**?
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
