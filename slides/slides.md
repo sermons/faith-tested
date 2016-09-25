@@ -83,7 +83,7 @@ to those who **love him**.
 ## Faith that Stands the Test
 1. **Joy** in Trials <span class="hl2">(v2-4)</span>
 2. **Wisdom** Given Generously <span class="hl2">(v5-8)</span>
-3. **Boast** in Our Weakness <span class="hl2">(v9-12)</span>
+3. **Boasting** in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-1-29wyvvLJA-maps.jpg" -->
@@ -177,7 +177,7 @@ at the **revelation** of Jesus Christ.
 ## Faith that Stands the Test
 1. Joy in Trials <span class="hl2">(v2-4)</span>
 2. **Wisdom Given Generously** <span class="hl2">(v5-8)</span>
-3. Boast in Our Weakness <span class="hl2">(v9-12)</span>
+3. Boasting in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
@@ -252,7 +252,7 @@ Immediately the boy’s father exclaimed, <br/>
 ## Faith that Stands the Test
 1. Joy in Trials <span class="hl2">(v2-4)</span>
 2. Wisdom Given Generously <span class="hl2">(v5-8)</span>
-3. **Boast in Our Weakness** <span class="hl2">(v9-12)</span>
+3. **Boasting in Our Weakness** <span class="hl2">(v9-12)</span>
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
@@ -337,7 +337,7 @@ who has been given to us.
 ## Faith that Stands the Test
 1. **Joy** in Trials <span class="hl2">(v2-4)</span>
 2. **Wisdom** Given Generously <span class="hl2">(v5-8)</span>
-3. **Boast** in Our Weakness <span class="hl2">(v9-12)</span>
+3. **Boasting** in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
