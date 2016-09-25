@@ -82,6 +82,7 @@ to those who **love him**.
 3. **Boast** in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-1-29wyvvLJA-maps.jpg" -->
 ## James 1:1 (NIV)
 To the **twelve tribes** scattered among the **nations**
 
@@ -90,6 +91,7 @@ To the **twelve tribes** scattered among the **nations**
 + immediately after Stephen's stoning (Ac7)
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/wm-Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg" -->
 ## Acts 8:1 (NIV)
 On that day a **great persecution** broke out <br/>
 against the **church** in Jerusalem,
@@ -108,6 +110,7 @@ Those who had been scattered <br/>
   + **accustomed**: my life, school, work, time
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg" -->
 <span class="hl2">1:2</span>
 whenever you *face* **trials** of **many kinds**
 
@@ -121,6 +124,7 @@ whenever you *face* **trials** of **many kinds**
 + *many kinds*: diverse sort
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8GVGrjx82oo-smiling_child_chile.jpg" -->
 <span class="hl2">1:2</span>
 **Consider** it pure **joy**
 
@@ -132,6 +136,7 @@ whenever you *face* **trials** of **many kinds**
   + from **trust** in God's **goodness**
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
 <span class="hl2">1:3</span>
 the **testing** of your faith produces **perseverance**.
 
@@ -142,6 +147,7 @@ the **testing** of your faith produces **perseverance**.
 + &rArr; **mature** + complete
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/wm-Pouring_gold.jpg" -->
 ## 1 Peter 1:6-7 (ESV)
 In this you **rejoice**, though now for a little while, <br/>
 if necessary, you have been **grieved** by various **trials**,
@@ -170,6 +176,7 @@ at the **revelation** of Jesus Christ.
 3. Boast in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
 <span class="hl2">1:5</span>
 If any of you lacks **wisdom**, <br/>
 you should **ask God**, who gives **generously** <br/>
@@ -212,6 +219,7 @@ and **unstable** in all they do.
   + in all his **roads** (ways)
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg" -->
 ## Mark 9:22-24 (NIV)
 "**If** you can do anything, <br/>
 **take pity** on us and **help us**."
@@ -223,6 +231,7 @@ Immediately the boy’s father exclaimed, <br/>
 “I **do** believe; **help me** overcome my **unbelief**!”
 
 >>>
++ boy possessed
 + not **strength** of our belief
   + but **object** of our faith
 + faith in God's **generosity** means
@@ -242,6 +251,7 @@ Immediately the boy’s father exclaimed, <br/>
 3. **Boast in Our Weakness** <span class="hl2">(v9-12)</span>
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
 <span class="hl2">1:9</span>
 Believers in **humble** circumstances <br/>
 ought to take **pride** in their **high** position.
@@ -251,7 +261,7 @@ But the **rich** should take pride <br/>
 in their **humiliation**
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 ## 2 Corinthians 12:9-10 (NIV) (p.1/2)
 “My **grace** is **sufficient** for you,
 for **my power** is made perfect in **weakness**.”
@@ -261,7 +271,7 @@ about my **weaknesses**,
 so that **Christ’s power** may rest on me.
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 ## 2 Corinthians 12:9-10 (NIV) (p.1/2)
 That is why, for **Christ’s sake**,
 I delight in **weaknesses**, in insults,
@@ -277,6 +287,7 @@ For when I am **weak**, then I am **strong**.
   + He will lift us up
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-urfVdTSFKfo-girl_hair_flowers.jpg" -->
 <span class="hl2">1:12</span>
 Blessed is the one who **perseveres under trial** <br/>
 because, having stood the test,
@@ -294,6 +305,7 @@ to those who **love him**.
   + Not just later in **heaven**:
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
 ## Romans 5:3-5 (NIV)
 We also **glory** in our **sufferings**,
 
