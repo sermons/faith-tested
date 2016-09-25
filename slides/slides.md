@@ -82,6 +82,32 @@ to those who **love him**.
 3. **Boast** in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
+## James 1:1 (NIV)
+To the **twelve tribes** scattered among the **nations**
+
+>>>
++ *scattered* (τῇ  Διασπορᾷ):
++ immediately after Stephen's stoning (Ac7)
+
+---
+## Acts 8:1 (NIV)
+On that day a **great persecution** broke out <br/>
+against the **church** in Jerusalem,
+
+and all except the apostles <br/>
+were **scattered** throughout Judea and Samaria.
+
+Those who had been scattered <br/>
+**preached the word** wherever they went.
+
+>>>
++ **Saul** going door-to-door
+  + prison, forfeiture, threat to family
++ But God used to spread **gospel**
++ trials: threat to **std of living**
+  + **accustomed**: my life, school, work, time
+
+---
 whenever you *face* **trials** of **many kinds**
 
 >>>
@@ -131,7 +157,7 @@ at the **revelation** of Jesus Christ.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q1
+# Has my **faith** in Christ <br/> ever been **tested**?
 
 ---
 <!-- .slide: background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
@@ -141,15 +167,22 @@ at the **revelation** of Jesus Christ.
 3. Boast in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
-5 If any of you lacks **wisdom**, <br/>
+<span class="hl2">5</span>
+If any of you lacks **wisdom**, <br/>
 you should **ask God**, who gives **generously** <br/>
 to all without **finding fault**
 
+>>>
++ *wisdom*: not just calc exam
+  + **respond** w/grace+truth to scoffers
+
 ---
+<span class="hl2">6</span>
 the one who **doubts** <br/>
 is like a **wave** of the sea, <br/>
 **blown** and **tossed** by the wind.
 
+<span class="hl2">7</span>
 ... Such a person is **double-minded** <br/>
 and **unstable** in all they do.
 
