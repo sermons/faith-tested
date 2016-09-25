@@ -4,26 +4,31 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Will my **faith** stand the **test**?
+# What does it mean to have **faith** in Jesus?
 
 ---
 ## James 1:2-4 (NIV) (p.1/5)
-2 Consider it **pure joy**, my brothers and sisters, <br/>
+<span class="hl2">2</span>
+Consider it **pure joy**, my brothers and sisters, <br/>
 whenever you face **trials** of many kinds, <br/>
+<span class="hl2">3</span>
 because you know that the <br/>
 **testing** of your faith produces **perseverance**.
 
+<span class="hl2">4</span>
 Let perseverance **finish** its work <br/>
 so that you may be **mature** and **complete**, <br/>
 not **lacking** anything.
 
 ---
 ## James 1:5-6 (NIV) (p.2/5)
-5 If any of you lacks **wisdom**, <br/>
+<span class="hl2">5</span>
+If any of you lacks **wisdom**, <br/>
 you should **ask God**, who gives **generously** <br/>
 to all without finding fault, <br/>
 and it will be **given** to you.
 
+<span class="hl2">6</span>
 But when you ask, <br/>
 you must **believe** and not doubt,
 
@@ -33,30 +38,36 @@ because the one who **doubts** <br/>
 is like a **wave** of the sea, <br/>
 **blown** and **tossed** by the wind.
 
-7 That person should not expect <br/>
+<span class="hl2">7</span>
+That person should not expect <br/>
 to receive anything from the Lord. <br/>
+<span class="hl2">8</span>
 Such a person is **double-minded** <br/>
 and **unstable** in all they do.
 
 ---
 ## James 1:9-10 (NIV) (p.4/5)
-9 Believers in **humble** circumstances <br/>
+<span class="hl2">9</span>
+Believers in **humble** circumstances <br/>
 ought to take **pride** in their **high** position.
 
+<span class="hl2">10</span>
 But the **rich** should take pride <br/>
 in their **humiliation** —  <br/>
 since they will pass away like a **wild flower**.
 
+<span class="hl2">11</span>
 For the sun rises with **scorching heat** <br/>
 and **withers** the plant; <br/>
 its **blossom** falls and its **beauty** is destroyed.
 
 ---
 ## James 1:11-12 (NIV) (p.5/5)
-11 In the same way, the rich will **fade away** <br/>
+In the same way, the rich will **fade away** <br/>
 even while they go about their **business**.
 
-12 Blessed is the one who **perseveres under trial** <br/>
+<span class="hl2">12</span>
+Blessed is the one who **perseveres under trial** <br/>
 because, having stood the test,
 
 that person will receive the **crown of life** <br/>
@@ -75,30 +86,30 @@ whenever you *face* **trials** of **many kinds**
 
 >>>
 + *face*: fall around: **encounter**
-  + innocently, passive: robbers, ship + rock
+  + **innocently**: robbers, ship + rock
   + not due to own **sin**
   + not that we **pursue**
-+ *trials*: test, tempt
-  + v13: not **from** God, but allowed by God
-+ *many kinds*: diverse sort, nature
++ *trials* (πειρασμοῖς): **test**, tempt
+  + v13: not **from** God, but allowed
++ *many kinds*: diverse sort
 
 ---
 **Consider** it pure **joy**
 
 >>>
-+ *consider*: deem, lead: assess + decide
-+ *pure*: all: of the trial
-+ *joy*:
-  + Gr: inner happiness, pleasure
++ *consider*: deem, lead: **assess** + **decide**
++ *pure*: **all**: of the trial
++ *joy*: Gr: inner happiness, pleasure
   + NT: **grace**, fruit of HS
+  + from **trust** in God's **goodness**
 
 ---
 the **testing** of your faith produces **perseverance**.
 
 >>>
-+ *testing*: not same as trial/tempt
-  + proof, reliable, esteemed Ro5:3-5
-+ *perseverance*: remain under
++ *testing* (δοκίμιον): not same as trial/tempt
+  + **proof**, reliable, esteemed Ro5:3-5
++ *perseverance*: **remain** under
 + &rArr; **mature** + complete
 
 ---
@@ -112,6 +123,11 @@ that perishes though it is **tested by fire** --
 
 may be found to result in **praise** and glory and honor <br/>
 at the **revelation** of Jesus Christ.
+
+>>>
++ *tested genuineness*: δοκίμιον
+  + testing of your faith
++ result in **praise** when Christ appears
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
