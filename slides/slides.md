@@ -7,7 +7,7 @@
 # What does it mean to have **faith** in Jesus?
 
 ---
-## James 1:2-4 (NIV) (p.1/5)
+## James 1:2-4 (NIV) (p.1/6)
 <span class="hl2">2</span>
 Consider it **pure joy**, my brothers and sisters, <br/>
 whenever you face **trials** of many kinds, <br/>
@@ -21,7 +21,7 @@ so that you may be **mature** and **complete**, <br/>
 not **lacking** anything.
 
 ---
-## James 1:5-6 (NIV) (p.2/5)
+## James 1:5-6 (NIV) (p.2/6)
 <span class="hl2">5</span>
 If any of you lacks **wisdom**, <br/>
 you should **ask God**, who gives **generously** <br/>
@@ -33,7 +33,7 @@ But when you ask, <br/>
 you must **believe** and not doubt,
 
 ---
-## James 1:6-8 (NIV) (p.3/5)
+## James 1:6-8 (NIV) (p.3/6)
 because the one who **doubts** <br/>
 is like a **wave** of the sea, <br/>
 **blown** and **tossed** by the wind.
@@ -46,7 +46,7 @@ Such a person is **double-minded** <br/>
 and **unstable** in all they do.
 
 ---
-## James 1:9-10 (NIV) (p.4/5)
+## James 1:9-10 (NIV) (p.4/6)
 <span class="hl2">9</span>
 Believers in **humble** circumstances <br/>
 ought to take **pride** in their **high** position.
@@ -56,22 +56,26 @@ But the **rich** should take pride <br/>
 in their **humiliation** —  <br/>
 since they will pass away like a **wild flower**.
 
+---
+## James 1:11 (NIV) (p.5/6)
 <span class="hl2">11</span>
 For the sun rises with **scorching heat** <br/>
 and **withers** the plant; <br/>
-its **blossom** falls and its **beauty** is destroyed.
+its **blossom** falls <br/>
+and its **beauty** is destroyed.
 
----
-## James 1:11-12 (NIV) (p.5/5)
 In the same way, the rich will **fade away** <br/>
 even while they go about their **business**.
 
+---
+## James 1:12 (NIV) (p.6/6)
 <span class="hl2">12</span>
-Blessed is the one who **perseveres under trial** <br/>
-because, having stood the test,
+Blessed is the one <br/>
+who **perseveres** under trial <br/>
+because, having **stood the test**,
 
 that person will receive the **crown of life** <br/>
-that the Lord has **promised** <br/>
+that the Lord has promised <br/>
 to those who **love him**.
 
 ---
