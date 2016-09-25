@@ -175,8 +175,20 @@ to all without **finding fault**
 >>>
 + *wisdom*: not just calc exam
   + **respond** w/grace+truth to scoffers
++ *ask God*: simple enough, but
+  + we turn **elsewhere**:
+  + self, friends, books, Google
+  + &rArr; **ack** I lack wisdom
+  + &rArr; **trust** God will give
++ *generously* (ἁπλῶς): whole, open heart
++ *finding fault* (διακρινόμενος): judge back/forth
+  + **reproach** (NAS/ESV), upbraid (KJV)
+  + discrimination, **partiality**
+  + **hesitation**, wavering
++ &rArr; **character** of God
 
 ---
+<!-- .slide: background-image="http://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
 <span class="hl2">6</span>
 the one who **doubts** <br/>
 is like a **wave** of the sea, <br/>
@@ -186,9 +198,38 @@ is like a **wave** of the sea, <br/>
 ... Such a person is **double-minded** <br/>
 and **unstable** in all they do.
 
+>>>
++ *doubt* (διακρινόμενος): v5 "finding fault"
+  + **judge**/reproach God
++ *blown/tossed*: stir by wind
++ *double-minded* (δίψυχος): two psyches
+  + vs God's **generosity** (whole)
++ *unstable* (ἀκατάστατος):
+  + unable to **stand** firm
+  + in all his **roads** (ways)
+
+---
+## Mark 9:22-24 (NIV)
+"**If** you can do anything, <br/>
+**take pity** on us and **help us**."
+
+“'If you can?'” said Jesus. <br/>
+“**Everything** is possible for one who **believes**.”
+
+Immediately the boy’s father exclaimed, <br/>
+“I **do** believe; **help me** overcome my **unbelief**!”
+
+>>>
++ not **strength** of our belief
+  + but **object** of our faith
++ faith in God's **generosity** means
+  + trusting God does what He **promises**
+  + **obeying** what God asks of us
++ esp when it seems He **isn't** answering!
+
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q2
+# Do I **believe** God is **generous**?
 
 ---
 <!-- .slide: background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
@@ -198,13 +239,16 @@ and **unstable** in all they do.
 3. **Boast in Our Weakness** <span class="hl2">(v9-12)</span>
 
 ---
+<span class="hl2">9</span>
 Believers in **humble** circumstances <br/>
 ought to take **pride** in their **high** position.
 
+<span class="hl2">10</span>
 But the **rich** should take pride <br/>
 in their **humiliation**
 
 ---
+<span class="hl2">12</span>
 Blessed is the one who **perseveres under trial** <br/>
 because, having stood the test,
 
