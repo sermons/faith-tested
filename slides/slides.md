@@ -71,15 +71,38 @@ to those who **love him**.
 3. **Boast** in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
-Consider it **pure joy**, my brothers and sisters, <br/>
-whenever you face **trials** of many kinds, <br/>
-because you know that the <br/>
-**testing** of your faith produces **perseverance**.
+whenever you *face* **trials** of *many kinds*
+
+>>>
++ *face*: fall around: **encounter**
+  + innocently, passive: robbers, ship + rock
+  + not due to own **sin**
+  + not that we **pursue**
++ *trials*: test, tempt
+  + v13: not **from** God, but allowed by God
++ *many kinds*: diverse sort, nature
+
+---
+*Consider* it pure **joy**
+
+>>>
++ *consider*: deem, lead: assess + decide
++ *pure*: all: of the trial
++ *joy*:
+  + Gr: inner happiness, pleasure
+  + NT: **grace**, fruit of HS
+
+---
+the **testing** of your faith produces **perseverance**.
+
+>>>
++ *testing*: not same as trial/tempt
+  + proof, reliable, esteemed Ro5:3-5
++ *perseverance*: remain under
 
 ---
 Let perseverance **finish** its work <br/>
-so that you may be **mature** and **complete**, <br/>
-not **lacking** anything.
+so that you may be **mature** and **complete**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
