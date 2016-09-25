@@ -88,7 +88,8 @@ to those who **love him**.
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-1-29wyvvLJA-maps.jpg" -->
 ## James 1:1 (NIV)
-To the **twelve tribes** scattered among the **nations**
+To the **twelve tribes** <br/>
+scattered among the **nations**
 
 >>>
 + *scattered* (τῇ  Διασπορᾷ):
