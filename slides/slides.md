@@ -7,7 +7,7 @@
 # What does it mean to have **faith** in Jesus?
 
 ---
-## James 1:2-4 (NIV) (p.1/6)
+## James 1:2-4 <small>(NIV) (p.1/6)</small>
 <span class="hl2">2</span>
 Consider it **pure joy**, my brothers and sisters, <br/>
 whenever you face **trials** of many kinds, <br/>
@@ -21,7 +21,7 @@ so that you may be **mature** and **complete**, <br/>
 not **lacking** anything.
 
 ---
-## James 1:5-6 (NIV) (p.2/6)
+## James 1:5-6 <small>(NIV) (p.2/6)</small>
 <span class="hl2">5</span>
 If any of you lacks **wisdom**, <br/>
 you should **ask God**, who gives **generously** <br/>
@@ -33,7 +33,7 @@ But when you ask, <br/>
 you must **believe** and not doubt,
 
 ---
-## James 1:6-8 (NIV) (p.3/6)
+## James 1:6-8 <small>(NIV) (p.3/6)</small>
 because the one who **doubts** <br/>
 is like a **wave** of the sea, <br/>
 **blown** and **tossed** by the wind.
@@ -46,7 +46,7 @@ Such a person is **double-minded** <br/>
 and **unstable** in all they do.
 
 ---
-## James 1:9-10 (NIV) (p.4/6)
+## James 1:9-10 <small>(NIV) (p.4/6)</small>
 <span class="hl2">9</span>
 Believers in **humble** circumstances <br/>
 ought to take **pride** in their **high** position.
@@ -57,7 +57,7 @@ in their **humiliation** —  <br/>
 since they will pass away like a **wild flower**.
 
 ---
-## James 1:11 (NIV) (p.5/6)
+## James 1:11 <small>(NIV) (p.5/6)</small>
 <span class="hl2">11</span>
 For the sun rises with **scorching heat** <br/>
 and **withers** the plant; <br/>
@@ -68,7 +68,7 @@ In the same way, the rich will **fade away** <br/>
 even while they go about their **business**.
 
 ---
-## James 1:12 (NIV) (p.6/6)
+## James 1:12 <small>(NIV) (p.6/6)</small>
 <span class="hl2">12</span>
 Blessed is the one <br/>
 who **perseveres** under trial <br/>
@@ -87,7 +87,7 @@ to those who **love him**.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-1-29wyvvLJA-maps.jpg" -->
-## James 1:1 (NIV)
+## James 1:1 <small>(NIV)</small>
 To the **twelve tribes** <br/>
 scattered among the **nations**
 
@@ -97,7 +97,7 @@ scattered among the **nations**
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/wm-Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg" -->
-## Acts 8:1 (NIV)
+## Acts 8:1 <small>(NIV)</small>
 On that day a **great persecution** broke out <br/>
 against the **church** in Jerusalem,
 
@@ -153,15 +153,20 @@ the **testing** of your faith produces **perseverance**.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/wm-Pouring_gold.jpg" -->
-## 1 Peter 1:6-7 (ESV)
-In this you **rejoice**, though now for a little while, <br/>
-if necessary, you have been **grieved** by various **trials**,
+## 1 Peter 1:6 <small>(ESV) (p.1/2)</small>
+In this you **rejoice**, <br/>
+though now for a little while, if necessary, <br/>
+you have been **grieved** by various **trials**,
 
+---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/wm-Pouring_gold.jpg" -->
+## 1 Peter 1:7 <small>(ESV) (p.2/2)</small>
 so that the **tested genuineness** of your **faith** -- <br/>
 more precious than **gold** <br/>
 that perishes though it is **tested by fire** --
 
-may be found to result in **praise** and glory and honor <br/>
+may be found to result in <br/>
+**praise** and glory and honor <br/>
 at the **revelation** of Jesus Christ.
 
 >>>
@@ -171,7 +176,7 @@ at the **revelation** of Jesus Christ.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Has my **faith** in Christ <br/> ever been **tested**?
+# Has my **faith** <br/> in Christ <br/> ever been **tested**?
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
@@ -225,7 +230,7 @@ and **unstable** in all they do.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg" -->
-## Mark 9:22-24 (NIV)
+## Mark 9:22-24 <small>(NIV)</small>
 "**If** you can do anything, <br/>
 **take pity** on us and **help us**."
 
@@ -246,7 +251,7 @@ Immediately the boy’s father exclaimed, <br/>
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Do I **believe** God is **generous**?
+# Do I **believe** God <br/> is **generous**?
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
@@ -271,19 +276,19 @@ in their **humiliation**
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-## 2 Corinthians 12:9-10 (NIV) (p.1/2)
-“My **grace** is **sufficient** for you,
+## 2 Cor. 12:9 <small>(NIV) (p.1/2)</small>
+“My **grace** is **sufficient** for you, <br/>
 for **my power** is made perfect in **weakness**.”
 
-Therefore I will **boast** all the more gladly
-about my **weaknesses**,
+Therefore I will **boast** all the more gladly <br/>
+about my **weaknesses**, <br/>
 so that **Christ’s power** may rest on me.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-## 2 Corinthians 12:9-10 (NIV) (p.1/2)
-That is why, for **Christ’s sake**,
-I delight in **weaknesses**, in insults,
+## 2 Cor. 12:10 <small>(NIV) (p.1/2)</small>
+That is why, for **Christ’s sake**, <br/>
+I delight in **weaknesses**, in insults, <br/>
 in hardships, in persecutions, in difficulties.
 
 For when I am **weak**, then I am **strong**.
@@ -298,14 +303,13 @@ For when I am **weak**, then I am **strong**.
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-urfVdTSFKfo-girl_hair_flowers.jpg" -->
 <span class="hl2">1:12</span>
-Blessed is the one who **perseveres under trial** <br/>
-because, having stood the test,
-
-that person will receive the **crown of life** <br/>
-that the Lord has **promised** <br/>
-to those who **love him**.
+Blessed is the one who <br/>
+**perseveres** under **trial** <br/>
+because, having stood the test, <br/>
+that person will receive the **crown of life**
 
 >>>
++ promised to those who **love** Him
 + **Faith** in Christ means
   + yielding **control**
   + enduring **suffering** for Christ
@@ -315,13 +319,19 @@ to those who **love him**.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
-## Romans 5:3-5 (NIV)
+## Romans 5:3-4 <small>(NIV) (p.1/2)</small>
 We also **glory** in our **sufferings**,
 
-because we know that suffering produces **perseverance**; <br/>
-perseverance, **character**; and character, **hope**.
+because we know that <br/>
+suffering produces **perseverance**; <br/>
+perseverance, **character**; <br/>
+and character, **hope**.
 
-And hope does not put us to **shame**, <br/>
+---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
+## Romans 5:5 <small>(NIV) (p.2/2)</small>
+And hope does not put us to **shame**,
+
 because **God’s love** has been poured out <br/>
 into our hearts through the **Holy Spirit**, <br/>
 who has been given to us.
@@ -342,8 +352,8 @@ who has been given to us.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
-## Book of James: Keep The Faith
-Next time: **Faith that Demands a Change of Heart**
+## Book of James: <br/> Keep The Faith
+Next time: <br/> **Faith that Demands a Change of Heart**
 <span class="hl2">(1:19-25)</span>
 
 ---
