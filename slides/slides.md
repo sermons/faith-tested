@@ -1,5 +1,5 @@
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
-# Faith that Stands the Test
+# Faith that <br/> Stands the Test
 ## James 1:2-12
 
 ---
