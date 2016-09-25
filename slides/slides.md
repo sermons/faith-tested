@@ -143,5 +143,11 @@ to those who **love him**.
 3. **Boast** in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
+<!-- .slide: background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+## Book of James: Keep The Faith
+Next time: **Faith that Demands a Change of Heart**
+<span class="hl2">(1:19-25)</span>
+
+---
 <!-- .slide: background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" class="empty" -->
 
