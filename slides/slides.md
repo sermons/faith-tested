@@ -75,7 +75,7 @@ that the Lord has **promised** <br/>
 to those who **love him**.
 
 ---
-<!-- .slide: background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 ## Faith that Stands the Test
 1. **Joy** in Trials <span class="hl2">(v2-4)</span>
 2. **Wisdom** Given Generously <span class="hl2">(v5-8)</span>
@@ -108,6 +108,7 @@ Those who had been scattered <br/>
   + **accustomed**: my life, school, work, time
 
 ---
+<span class="hl2">1:2</span>
 whenever you *face* **trials** of **many kinds**
 
 >>>
@@ -120,6 +121,7 @@ whenever you *face* **trials** of **many kinds**
 + *many kinds*: diverse sort
 
 ---
+<span class="hl2">1:2</span>
 **Consider** it pure **joy**
 
 >>>
@@ -130,11 +132,12 @@ whenever you *face* **trials** of **many kinds**
   + from **trust** in God's **goodness**
 
 ---
+<span class="hl2">1:3</span>
 the **testing** of your faith produces **perseverance**.
 
 >>>
 + *testing* (δοκίμιον): not same as trial/tempt
-  + **proof**, reliable, esteemed Ro5:3-5
+  + **proof**, reliable, esteemed
 + *perseverance*: **remain** under
 + &rArr; **mature** + complete
 
@@ -160,14 +163,14 @@ at the **revelation** of Jesus Christ.
 # Has my **faith** in Christ <br/> ever been **tested**?
 
 ---
-<!-- .slide: background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 ## Faith that Stands the Test
 1. Joy in Trials <span class="hl2">(v2-4)</span>
 2. **Wisdom Given Generously** <span class="hl2">(v5-8)</span>
 3. Boast in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
-<span class="hl2">5</span>
+<span class="hl2">1:5</span>
 If any of you lacks **wisdom**, <br/>
 you should **ask God**, who gives **generously** <br/>
 to all without **finding fault**
@@ -188,8 +191,8 @@ to all without **finding fault**
 + &rArr; **character** of God
 
 ---
-<!-- .slide: background-image="http://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
-<span class="hl2">6</span>
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
+<span class="hl2">1:6</span>
 the one who **doubts** <br/>
 is like a **wave** of the sea, <br/>
 **blown** and **tossed** by the wind.
@@ -232,14 +235,14 @@ Immediately the boy’s father exclaimed, <br/>
 # Do I **believe** God is **generous**?
 
 ---
-<!-- .slide: background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 ## Faith that Stands the Test
 1. Joy in Trials <span class="hl2">(v2-4)</span>
 2. Wisdom Given Generously <span class="hl2">(v5-8)</span>
 3. **Boast in Our Weakness** <span class="hl2">(v9-12)</span>
 
 ---
-<span class="hl2">9</span>
+<span class="hl2">1:9</span>
 Believers in **humble** circumstances <br/>
 ought to take **pride** in their **high** position.
 
@@ -248,7 +251,33 @@ But the **rich** should take pride <br/>
 in their **humiliation**
 
 ---
-<span class="hl2">12</span>
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
+## 2 Corinthians 12:9-10 (NIV) (p.1/2)
+“My **grace** is **sufficient** for you,
+for **my power** is made perfect in **weakness**.”
+
+Therefore I will **boast** all the more gladly
+about my **weaknesses**,
+so that **Christ’s power** may rest on me.
+
+---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
+## 2 Corinthians 12:9-10 (NIV) (p.1/2)
+That is why, for **Christ’s sake**,
+I delight in **weaknesses**, in insults,
+in hardships, in persecutions, in difficulties.
+
+For when I am **weak**, then I am **strong**.
+
+>>>
++ the **stronger** we are
+  + i.e., reliant on self
++ the **weaker** we deem God to be
++ **humble** ourselves (4:10)
+  + He will lift us up
+
+---
+<span class="hl2">1:12</span>
 Blessed is the one who **perseveres under trial** <br/>
 because, having stood the test,
 
@@ -256,23 +285,46 @@ that person will receive the **crown of life** <br/>
 that the Lord has **promised** <br/>
 to those who **love him**.
 
+>>>
++ **Faith** in Christ means
+  + yielding **control**
+  + enduring **suffering** for Christ
+  + boasting in our **weaknesses**
++ But there is a **reward**
+  + Not just later in **heaven**:
+
+---
+## Romans 5:3-5 (NIV)
+We also **glory** in our **sufferings**,
+
+because we know that suffering produces **perseverance**; <br/>
+perseverance, **character**; and character, **hope**.
+
+And hope does not put us to **shame**, <br/>
+because **God’s love** has been poured out <br/>
+into our hearts through the **Holy Spirit**, <br/>
+who has been given to us.
+
+>>>
++ HS as **down-payment**
+
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # Q3
 
 ---
-<!-- .slide: background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 ## Faith that Stands the Test
 1. **Joy** in Trials <span class="hl2">(v2-4)</span>
 2. **Wisdom** Given Generously <span class="hl2">(v5-8)</span>
 3. **Boast** in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
-<!-- .slide: background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 ## Book of James: Keep The Faith
 Next time: **Faith that Demands a Change of Heart**
 <span class="hl2">(1:19-25)</span>
 
 ---
-<!-- .slide: background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" class="empty" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" class="empty" -->
 
