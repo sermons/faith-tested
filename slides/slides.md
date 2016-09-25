@@ -71,7 +71,7 @@ to those who **love him**.
 3. **Boast** in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
-whenever you *face* **trials** of *many kinds*
+whenever you *face* **trials** of **many kinds**
 
 >>>
 + *face*: fall around: **encounter**
@@ -83,7 +83,7 @@ whenever you *face* **trials** of *many kinds*
 + *many kinds*: diverse sort, nature
 
 ---
-*Consider* it pure **joy**
+**Consider** it pure **joy**
 
 >>>
 + *consider*: deem, lead: assess + decide
@@ -99,10 +99,19 @@ the **testing** of your faith produces **perseverance**.
 + *testing*: not same as trial/tempt
   + proof, reliable, esteemed Ro5:3-5
 + *perseverance*: remain under
++ &rArr; **mature** + complete
 
 ---
-Let perseverance **finish** its work <br/>
-so that you may be **mature** and **complete**
+## 1 Peter 1:6-7 (ESV)
+In this you **rejoice**, though now for a little while, <br/>
+if necessary, you have been **grieved** by various **trials**,
+
+so that the **tested genuineness** of your **faith** -- <br/>
+more precious than **gold** <br/>
+that perishes though it is **tested by fire** --
+
+may be found to result in **praise** and glory and honor <br/>
+at the **revelation** of Jesus Christ.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
