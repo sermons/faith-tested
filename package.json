@@ -1,6 +1,23 @@
 {
   "name": "@sermons/faith-tested",
-  "version": "0.4.0",
+  "version": "0.8.0",
+  "repository": "sermons/faith-tested",
+  "description": "James 1:2-12, Faith that Stands the Test",
+  "keywords": ["sermon", "James", "faith"],
+  "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
+  "config": {
+    "pretty_url": "faith-tested.seanho.com",
+    "cname": "faith-tested.seanho.com",
+    "multiplex": {
+      "url": "https://mp-seanho00.rhcloud.com:8443/",
+      "id": "bfe328b0fbfb8c04"
+    },
+    "git": {
+      "name": "Sean Ho",
+      "email": "travis@seanho.com"
+    }
+  },
+  "license": "CC-BY-SA-4.0",
   "private": true,
   "devDependencies": {
     "bower": "^1.7.9",
@@ -13,25 +30,13 @@
     "grunt-bower": "^0.21.2",
     "grunt-exec": "^1.0.0",
     "grunt-build-control": "^0.7.1",
-    "phantom": "^2.1.21",
     "grunt-coffeelint": "^0.0.16",
-    "coffeelint": "^1.15.7"
+    "coffeelint": "^1.15.7",
+    "phantom": "^2.1.21"
   },
   "engines": {
     "node": ">=0.10.0",
     "npm": ">=1.3.7"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:sermons/faith-tested.git"
-  },
-  "info": {
-    "title": "Faith that Stands the Test",
-    "disp_url": "faith-tested.seanho.com"
-  },
-  "git": {
-    "name": "Sean Ho",
-    "email": "travis@seanho.com"
   },
   "scripts": {
     "test": "grunt test",
