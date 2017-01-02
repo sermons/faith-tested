@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 # Faith that <br/> Stands the Test
 ## James 1:2-12
 
@@ -79,14 +79,14 @@ that the Lord has promised <br/>
 to those who **love him**.
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 ## Faith that Stands the Test
 1. **Joy** in Trials <span class="hl2">(v2-4)</span>
 2. **Wisdom** Given Generously <span class="hl2">(v5-8)</span>
 3. **Boasting** in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-1-29wyvvLJA-maps.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-1-29wyvvLJA-maps.jpg" -->
 ## James 1:1 <small>(NIV)</small>
 To the **twelve tribes** <br/>
 scattered among the **nations**
@@ -96,7 +96,7 @@ scattered among the **nations**
 + immediately after Stephen's stoning (Ac7)
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/wm-Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg" -->
 ## Acts 8:1 <small>(NIV)</small>
 On that day a **great persecution** broke out <br/>
 against the **church** in Jerusalem,
@@ -115,7 +115,7 @@ Those who had been scattered <br/>
   + **accustomed**: my life, school, work, time
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg" -->
 <span class="hl2">2</span>
 whenever you *face* **trials** of **many kinds**
 
@@ -129,7 +129,7 @@ whenever you *face* **trials** of **many kinds**
 + *many kinds*: diverse sort
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8GVGrjx82oo-smiling_child_chile.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8GVGrjx82oo-smiling_child_chile.jpg" -->
 <span class="hl2">2</span>
 **Consider** it pure **joy**
 
@@ -141,7 +141,7 @@ whenever you *face* **trials** of **many kinds**
   + from **trust** in God's **goodness**
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
 <span class="hl2">3</span>
 **testing** of your faith produces **perseverance**
 
@@ -152,14 +152,14 @@ whenever you *face* **trials** of **many kinds**
 + &rArr; **mature** + complete
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/wm-Pouring_gold.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Pouring_gold.jpg" -->
 ## 1 Peter 1:6 <small>(ESV) (p.1/2)</small>
 In this you **rejoice**, <br/>
 though now for a little while, if necessary, <br/>
 you have been **grieved** by various **trials**,
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/wm-Pouring_gold.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Pouring_gold.jpg" -->
 ## 1 Peter 1:7 <small>(ESV) (p.2/2)</small>
 so that the **tested genuineness** of your **faith** -- <br/>
 more precious than **gold** <br/>
@@ -179,14 +179,14 @@ at the **revelation** of Jesus Christ.
 # Has my **faith** <br/> in Christ <br/> ever been **tested**?
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 ## Faith that Stands the Test
 1. Joy in Trials <span class="hl2">(v2-4)</span>
 2. **Wisdom Given Generously** <span class="hl2">(v5-8)</span>
 3. Boasting in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
 <span class="hl2">5</span>
 If any of you lacks **wisdom**, <br/>
 you should **ask God**, who gives **generously** <br/>
@@ -208,7 +208,7 @@ to all without **finding fault**
 + &rArr; **character** of God
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
 <span class="hl2">6</span>
 the one who **doubts** <br/>
 is like a **wave** of the sea, <br/>
@@ -229,7 +229,7 @@ and **unstable** in all they do.
   + in all his **roads** (ways)
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg" -->
 ## Mark 9:22-24 <small>(NIV)</small>
 "**If** you can do anything, <br/>
 **take pity** on us and **help us**."
@@ -254,14 +254,14 @@ Immediately the boy’s father exclaimed, <br/>
 # Do I **believe** God <br/> is **generous**?
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 ## Faith that Stands the Test
 1. Joy in Trials <span class="hl2">(v2-4)</span>
 2. Wisdom Given Generously <span class="hl2">(v5-8)</span>
 3. **Boasting in Our Weakness** <span class="hl2">(v9-12)</span>
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
 <span class="hl2">9</span>
 Believers in **humble** circumstances <br/>
 ought to take **pride** in their **high** position.
@@ -275,7 +275,7 @@ in their **humiliation**
 + *humiliation*: lowness
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 ## 2 Cor. 12:9 <small>(NIV) (p.1/2)</small>
 “My **grace** is **sufficient** for you, <br/>
 for **my power** is made perfect in **weakness**.”
@@ -285,7 +285,7 @@ about my **weaknesses**, <br/>
 so that **Christ’s power** may rest on me.
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 ## 2 Cor. 12:10 <small>(NIV) (p.1/2)</small>
 That is why, for **Christ’s sake**, <br/>
 I delight in **weaknesses**, in insults, <br/>
@@ -301,7 +301,7 @@ For when I am **weak**, then I am **strong**.
   + He will lift us up
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-urfVdTSFKfo-girl_hair_flowers.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-urfVdTSFKfo-girl_hair_flowers.jpg" -->
 <span class="hl2">12</span>
 Blessed is the one who <br/>
 **perseveres** under **trial** <br/>
@@ -318,7 +318,7 @@ that person will receive the **crown of life**
   + Not just later in **heaven**:
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
 ## Romans 5:3-4 <small>(NIV) (p.1/2)</small>
 We also **glory** in our **sufferings**,
 
@@ -328,7 +328,7 @@ perseverance, **character**; <br/>
 and character, **hope**.
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
 ## Romans 5:5 <small>(NIV) (p.2/2)</small>
 And hope does not put us to **shame**,
 
@@ -344,18 +344,18 @@ who has been given to us.
 # Do I **boast** in my own **weaknesses**?
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 ## Faith that Stands the Test
 1. **Joy** in Trials <span class="hl2">(v2-4)</span>
 2. **Wisdom** Given Generously <span class="hl2">(v5-8)</span>
 3. **Boasting** in Our Weakness <span class="hl2">(v9-12)</span>
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 ## Book of James: <br/> **Keep The Faith**
 Next time: <br/> **Faith that Demands a Change of Heart** <br/>
 <span class="hl2">(1:19-25)</span>
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" class="empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" class="empty" -->
 
