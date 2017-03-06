@@ -1,4 +1,5 @@
-# James 1:2-12 Faith that Stands the Test
+# Faith that Stands the Test (1/10)
+## James 1:2-12 
 
 [![Travis-CI build status](https://travis-ci.org/sermons/faith-tested.svg)](https://travis-ci.org/sermons/faith-tested)
 [![Node dependencies](https://david-dm.org/sermons/faith-tested.svg)](https://david-dm.org/sermons/faith-tested)
