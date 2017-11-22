@@ -6,7 +6,7 @@
     "slides",
     "sermon",
     "James",
-    "talks",
+    "Keep the Faith",
     "ppt"
   ],
   "version": "1.6.9",
@@ -23,6 +23,12 @@
       "email": "travis@seanho.com"
     },
     "history": [
+      {
+        "venue": "Fujian Evangelical Church",
+        "city": "Richmond",
+        "date": "2017-11-26",
+        "duration": 0
+      },
       {
         "venue": "Evangelical Chinese Bible Church",
         "city": "Coquitlam",
