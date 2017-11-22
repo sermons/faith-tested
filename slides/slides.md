@@ -1,64 +1,67 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+<!-- .slide: <%= bg("unsplash-JdY-P44WBpY-stormclouds.jpg") %> id="title" -->
 # Faith that <br/> Stands the Test
 ## James 1:2-12
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # What does it mean <br/> to have **faith** <br/> in Jesus?
 
 ---
-## James 1:2-4 <small>(NIV) (p.1/6)</small>
-<span class="hl2">2</span>
+[2](# "ref")
 Consider it **pure joy**, my brothers and sisters, <br/>
 whenever you face **trials** of many kinds, <br/>
-<span class="hl2">3</span>
+[3](# "ref")
 because you know that the <br/>
 **testing** of your faith produces **perseverance**.
 
-<span class="hl2">4</span>
+[4](# "ref")
 Let perseverance **finish** its work <br/>
 so that you may be **mature** and **complete**, <br/>
 not **lacking** anything.
 
+[James 1:2-4 (NIV) (p.1/6)](# "ref")
+
 ---
-## James 1:5-6 <small>(NIV) (p.2/6)</small>
-<span class="hl2">5</span>
+[5](# "ref")
 If any of you lacks **wisdom**, <br/>
 you should **ask God**, who gives **generously** <br/>
 to all without finding fault, <br/>
 and it will be **given** to you.
 
-<span class="hl2">6</span>
+[6](# "ref")
 But when you ask, <br/>
 you must **believe** and not doubt,
 
+[James 1:5-6 (NIV) (p.2/6)](# "ref")
+
 ---
-## James 1:6-8 <small>(NIV) (p.3/6)</small>
 because the one who **doubts** <br/>
 is like a **wave** of the sea, <br/>
 **blown** and **tossed** by the wind.
 
-<span class="hl2">7</span>
+[7](# "ref")
 That person should not expect <br/>
 to receive anything from the Lord. <br/>
-<span class="hl2">8</span>
+[8](# "ref")
 Such a person is **double-minded** <br/>
 and **unstable** in all they do.
 
+[James 1:6-8 (NIV) (p.3/6)](# "ref")
+
 ---
-## James 1:9-10 <small>(NIV) (p.4/6)</small>
-<span class="hl2">9</span>
+[9](# "ref")
 Believers in **humble** circumstances <br/>
 ought to take **pride** in their **high** position.
 
-<span class="hl2">10</span>
+[10](# "ref")
 But the **rich** should take pride <br/>
 in their **humiliation** —  <br/>
 since they will pass away like a **wild flower**.
 
+[James 1:9-10 (NIV) (p.4/6)](# "ref")
+
 ---
-## James 1:11 <small>(NIV) (p.5/6)</small>
-<span class="hl2">11</span>
+[11](# "ref")
 For the sun rises with **scorching heat** <br/>
 and **withers** the plant; <br/>
 its **blossom** falls <br/>
@@ -67,9 +70,10 @@ and its **beauty** is destroyed.
 In the same way, the rich will **fade away** <br/>
 even while they go about their **business**.
 
+[James 1:11 (NIV) (p.5/6)](# "ref")
+
 ---
-## James 1:12 <small>(NIV) (p.6/6)</small>
-<span class="hl2">12</span>
+[12](# "ref")
 Blessed is the one <br/>
 who **perseveres** under trial <br/>
 because, having **stood the test**,
@@ -78,26 +82,30 @@ that person will receive the **crown of life** <br/>
 that the Lord has promised <br/>
 to those who **love him**.
 
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
-## Faith that Stands the Test
-1. **Joy** in Trials <span class="hl2">(v2-4)</span>
-2. **Wisdom** Given Generously <span class="hl2">(v5-8)</span>
-3. **Boasting** in Our Weakness <span class="hl2">(v9-12)</span>
+[James 1:12 (NIV) (p.6/6)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-1-29wyvvLJA-maps.jpg" -->
-## James 1:1 <small>(NIV)</small>
+<!-- .slide: <%= bg("unsplash-JdY-P44WBpY-stormclouds.jpg") %> id="outline" -->
+## Faith that Stands the Test
+1. **Joy** in Trials [(v2-4)](# "ref")
+2. **Wisdom** Given Generously [(v5-8)](# "ref")
+3. **Boasting** in Our Weakness [(v9-12)](# "ref")
+
+<!-- .element: class="outline" -->
+
+---
+<!-- .slide: <%= bg("unsplash-1-29wyvvLJA-maps.jpg") %> -->
 To the **twelve tribes** <br/>
 scattered among the **nations**
+
+[James 1:1 (NIV)](# "ref")
 
 >>>
 + *scattered* (τῇ  Διασπορᾷ):
 + immediately after Stephen's stoning (Ac7)
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg" -->
-## Acts 8:1 <small>(NIV)</small>
+<!-- .slide: <%= bg("wm-Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg") %> -->
 On that day a **great persecution** broke out <br/>
 against the **church** in Jerusalem,
 
@@ -107,6 +115,8 @@ were **scattered** throughout Judea and Samaria.
 Those who had been scattered <br/>
 **preached the word** wherever they went.
 
+[Acts 8:1 (NIV)](# "ref")
+
 >>>
 + **Saul** going door-to-door
   + prison, forfeiture, threat to family
@@ -115,9 +125,10 @@ Those who had been scattered <br/>
   + **accustomed**: my life, school, work, time
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg" -->
-<span class="hl2">2</span>
+<!-- .slide: <%= bg("Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg") %> -->
 whenever you *face* **trials** of **many kinds**
+
+[James 1:2 (NIV)](# "ref")
 
 >>>
 + *face*: fall around: **encounter**
@@ -129,9 +140,10 @@ whenever you *face* **trials** of **many kinds**
 + *many kinds*: diverse sort
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8GVGrjx82oo-smiling_child_chile.jpg" -->
-<span class="hl2">2</span>
+<!-- .slide: <%= bg("unsplash-8GVGrjx82oo-smiling_child_chile.jpg") %> -->
 **Consider** it pure **joy**
+
+[James 1:2 (NIV)](# "ref")
 
 >>>
 + *consider*: deem, lead: **assess** + **decide**
@@ -141,9 +153,10 @@ whenever you *face* **trials** of **many kinds**
   + from **trust** in God's **goodness**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
-<span class="hl2">3</span>
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 **testing** of your faith produces **perseverance**
+
+[James 1:3 (NIV)](# "ref")
 
 >>>
 + *testing* (δοκίμιον): not same as trial/tempt
@@ -152,15 +165,15 @@ whenever you *face* **trials** of **many kinds**
 + &rArr; **mature** + complete
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Pouring_gold.jpg" -->
-## 1 Peter 1:6 <small>(ESV) (p.1/2)</small>
+<!-- .slide: <%= bg("wm-Pouring_gold.jpg") %> -->
 In this you **rejoice**, <br/>
 though now for a little while, if necessary, <br/>
 you have been **grieved** by various **trials**,
 
+[1 Peter 1:6 (ESV) (p.1/2)](# "ref")
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Pouring_gold.jpg" -->
-## 1 Peter 1:7 <small>(ESV) (p.2/2)</small>
+<!-- .slide: <%= bg("wm-Pouring_gold.jpg") %> -->
 so that the **tested genuineness** of your **faith** -- <br/>
 more precious than **gold** <br/>
 that perishes though it is **tested by fire** --
@@ -169,28 +182,33 @@ may be found to result in <br/>
 **praise** and glory and honor <br/>
 at the **revelation** of Jesus Christ.
 
+[1 Peter 1:7 (ESV) (p.2/2)](# "ref")
+
 >>>
 + *tested genuineness*: δοκίμιον
   + testing of your faith
 + result in **praise** when Christ appears
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Has my **faith** <br/> in Christ <br/> ever been **tested**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+<!-- .slide: <%= bg("unsplash-JdY-P44WBpY-stormclouds.jpg") %> -->
 ## Faith that Stands the Test
-1. Joy in Trials <span class="hl2">(v2-4)</span>
-2. **Wisdom Given Generously** <span class="hl2">(v5-8)</span>
-3. Boasting in Our Weakness <span class="hl2">(v9-12)</span>
+1. Joy in Trials [(v2-4)](# "ref")
+2. **Wisdom Given Generously** [(v5-8)](# "ref")
+3. Boasting in Our Weakness [(v9-12)](# "ref")
+
+<!-- .element: class="outline" -->
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
-<span class="hl2">5</span>
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 If any of you lacks **wisdom**, <br/>
 you should **ask God**, who gives **generously** <br/>
 to all without **finding fault**
+
+[James 1:5 (NIV)](# "ref")
 
 >>>
 + *wisdom*: not just calc exam
@@ -208,15 +226,16 @@ to all without **finding fault**
 + &rArr; **character** of God
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
-<span class="hl2">6</span>
+<!-- .slide: <%= bg("Hans-wave-384385.jpg") %> -->
 the one who **doubts** <br/>
 is like a **wave** of the sea, <br/>
 **blown** and **tossed** by the wind.
 
-<span class="hl2">7</span>
+[7](# "ref")
 ... Such a person is **double-minded** <br/>
 and **unstable** in all they do.
+
+[James 1:6-7 (NIV)](# "ref")
 
 >>>
 + *doubt* (διακρινόμενος): v5 "finding fault"
@@ -229,8 +248,7 @@ and **unstable** in all they do.
   + in all his **roads** (ways)
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg" -->
-## Mark 9:22-24 <small>(NIV)</small>
+<!-- .slide: <%= bg("wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg") %> -->
 "**If** you can do anything, <br/>
 **take pity** on us and **help us**."
 
@@ -239,6 +257,8 @@ and **unstable** in all they do.
 
 Immediately the boy’s father exclaimed, <br/>
 “I **do** believe; **help me** overcome my **unbelief**!”
+
+[Mark 9:22-24 (NIV)](# "ref")
 
 >>>
 + boy possessed
@@ -250,33 +270,35 @@ Immediately the boy’s father exclaimed, <br/>
 + esp when it seems He **isn't** answering!
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Do I **believe** God <br/> is **generous**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+<!-- .slide: <%= bg("unsplash-JdY-P44WBpY-stormclouds.jpg") %> -->
 ## Faith that Stands the Test
-1. Joy in Trials <span class="hl2">(v2-4)</span>
-2. Wisdom Given Generously <span class="hl2">(v5-8)</span>
-3. **Boasting in Our Weakness** <span class="hl2">(v9-12)</span>
+1. Joy in Trials [(v2-4)](# "ref")
+2. **Wisdom Given Generously** [(v5-8)](# "ref")
+3. Boasting in Our Weakness [(v9-12)](# "ref")
+
+<!-- .element: class="outline" -->
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
-<span class="hl2">9</span>
+<!-- .slide: <%= bg("unsplash-b8rkmfxZjdU-kids.jpg") %> -->
 Believers in **humble** circumstances <br/>
 ought to take **pride** in their **high** position.
 
-<span class="hl2">10</span>
+[10](# "ref")
 But the **rich** should take pride <br/>
 in their **humiliation**
+
+[James 1:9-10 (NIV)](# "ref")
 
 >>>
 + *pride*: boast
 + *humiliation*: lowness
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-## 2 Cor. 12:9 <small>(NIV) (p.1/2)</small>
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 “My **grace** is **sufficient** for you, <br/>
 for **my power** is made perfect in **weakness**.”
 
@@ -284,14 +306,17 @@ Therefore I will **boast** all the more gladly <br/>
 about my **weaknesses**, <br/>
 so that **Christ’s power** may rest on me.
 
+[2 Corinthians 12:9 (NIV) (p.1/2)](# "ref")
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-## 2 Cor. 12:10 <small>(NIV) (p.1/2)</small>
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 That is why, for **Christ’s sake**, <br/>
 I delight in **weaknesses**, in insults, <br/>
 in hardships, in persecutions, in difficulties.
 
 For when I am **weak**, then I am **strong**.
+
+[2 Corinthians 12:10 (NIV) (p.2/2)](# "ref")
 
 >>>
 + the **stronger** we are
@@ -301,12 +326,14 @@ For when I am **weak**, then I am **strong**.
   + He will lift us up
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-urfVdTSFKfo-girl_hair_flowers.jpg" -->
-<span class="hl2">12</span>
+<!-- .slide: <%= bg("unsplash-urfVdTSFKfo-girl_hair_flowers.jpg") %> -->
 Blessed is the one who <br/>
-**perseveres** under **trial** <br/>
-because, having stood the test, <br/>
+**perseveres** under **trial**
+
+because, having **stood** the test, <br/>
 that person will receive the **crown of life**
+
+[James 1:12 (NIV)](# "ref")
 
 >>>
 + promised to those who **love** Him
@@ -318,8 +345,7 @@ that person will receive the **crown of life**
   + Not just later in **heaven**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
-## Romans 5:3-4 <small>(NIV) (p.1/2)</small>
+<!-- .slide: <%= bg("unsplash-y4v96Sy2ne4-sunset_hills.jpg") %> -->
 We also **glory** in our **sufferings**,
 
 because we know that <br/>
@@ -327,35 +353,36 @@ suffering produces **perseverance**; <br/>
 perseverance, **character**; <br/>
 and character, **hope**.
 
+[Romans 5:3-4 (NIV) (p.1/2)](# "ref")
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
-## Romans 5:5 <small>(NIV) (p.2/2)</small>
+<!-- .slide: <%= bg("unsplash-y4v96Sy2ne4-sunset_hills.jpg") %> -->
 And hope does not put us to **shame**,
 
 because **God’s love** has been poured out <br/>
 into our hearts through the **Holy Spirit**, <br/>
 who has been given to us.
 
+[Romans 5:5 (NIV) (p.2/2)](# "ref")
+
 >>>
 + HS as **down-payment**
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Do I **boast** in my own **weaknesses**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
-## Faith that Stands the Test
-1. **Joy** in Trials <span class="hl2">(v2-4)</span>
-2. **Wisdom** Given Generously <span class="hl2">(v5-8)</span>
-3. **Boasting** in Our Weakness <span class="hl2">(v9-12)</span>
+<!-- .slide: <%= bg("unsplash-JdY-P44WBpY-stormclouds.jpg") %> -->
+Blessed is the one <br/>
+who **perseveres** under trial <br/>
+because, having **stood the test**,
+
+that person will receive the **crown of life** <br/>
+that the Lord has promised <br/>
+to those who **love him**.
+
+[James 1:12 (NIV)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
-## Book of James: <br/> **Keep The Faith**
-Next time: <br/> **Faith that Demands a Change of Heart** <br/>
-<span class="hl2">(1:19-25)</span>
-
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" class="empty" -->
-
+<!-- .slide: <%= bg("unsplash-JdY-P44WBpY-stormclouds.jpg") %> class="empty" -->
