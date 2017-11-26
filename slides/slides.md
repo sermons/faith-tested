@@ -279,8 +279,8 @@ Immediately the boy’s father exclaimed, <br/>
 <!-- .slide: <%= bg("unsplash-JdY-P44WBpY-stormclouds.jpg") %> -->
 ## Faith that Stands the Test
 1. Joy in Trials [(v2-4)](# "ref")
-2. **Wisdom Given Generously** [(v5-8)](# "ref")
-3. Boasting in Weakness [(v9-12)](# "ref")
+2. Wisdom Given Generously [(v5-8)](# "ref")
+3. **Boasting in Weakness** [(v9-12)](# "ref")
 
 <!-- .element: class="outline" -->
 
