@@ -6,6 +6,8 @@
 <!-- .slide: data-background="white" -->
 # What does it mean <br/> to have **faith** <br/> in Jesus?
 
+[###](#/outline "secret")
+
 ---
 [2](# "ref")
 Consider it **pure joy**, my brothers and sisters, <br/>
@@ -89,7 +91,7 @@ to those who **love him**.
 ## Faith that Stands the Test
 1. **Joy** in Trials [(v2-4)](# "ref")
 2. **Wisdom** Given Generously [(v5-8)](# "ref")
-3. **Boasting** in Our Weakness [(v9-12)](# "ref")
+3. **Boasting** in Weakness [(v9-12)](# "ref")
 
 <!-- .element: class="outline" -->
 
@@ -198,7 +200,7 @@ at the **revelation** of Jesus Christ.
 ## Faith that Stands the Test
 1. Joy in Trials [(v2-4)](# "ref")
 2. **Wisdom Given Generously** [(v5-8)](# "ref")
-3. Boasting in Our Weakness [(v9-12)](# "ref")
+3. Boasting in Weakness [(v9-12)](# "ref")
 
 <!-- .element: class="outline" -->
 
@@ -278,7 +280,7 @@ Immediately the boy’s father exclaimed, <br/>
 ## Faith that Stands the Test
 1. Joy in Trials [(v2-4)](# "ref")
 2. **Wisdom Given Generously** [(v5-8)](# "ref")
-3. Boasting in Our Weakness [(v9-12)](# "ref")
+3. Boasting in Weakness [(v9-12)](# "ref")
 
 <!-- .element: class="outline" -->
 
