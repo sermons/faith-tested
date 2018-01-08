@@ -103,8 +103,10 @@ scattered among the **nations**
 [James 1:1 (NIV)](# "ref")
 
 >>>
-+ *scattered* (τῇ  Διασπορᾷ):
-+ immediately after Stephen's stoning (Ac7)
++ audience: **Christians**
+  + amid **persecution**
++ "scattered" (τῇ  Διασπορᾷ)
++ after **Stephen**'s stoning (Ac7):
 
 ---
 <!-- .slide: <%= bg("wm-Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg") %> -->
