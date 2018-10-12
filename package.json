@@ -9,7 +9,7 @@
     "Keep the Faith",
     "ppt"
   ],
-  "version": "1.6.27",
+  "version": "1.6.28",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "faith-tested.seanho.com",
@@ -109,13 +109,13 @@
   "devDependencies": {
     "grunt": "^1.0.3",
     "load-grunt-tasks": "^4.0.0",
-    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-connect": "^2.0.0",
     "grunt-contrib-copy": "^1.0.0",
     "node-sass": "^4.9.3",
     "grunt-sass": "^3.0.1",
     "grunt-exec": "^3.0.0",
     "qrcode": "^1.2.2",
-    "decktape": "^2.8.7"
+    "decktape": "^2.8.9"
   },
   "scripts": {
     "postinstall": "grunt install",
